@@ -1,6 +1,4 @@
-Sure, here is how your README file could look like:
 
----
 
 # IR Data Classification Repository
 
