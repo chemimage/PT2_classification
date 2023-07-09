@@ -32,8 +32,9 @@ pip install numpy scipy torch torchvision pillow
 Please note that the 'sys' library is part of Python's standard library, so it does not need to be installed separately.
 
 ## Training
+
 ```bash
-python training.py --n_epochs [numberof epochs] --exp [experiment id in case of runing multiple experiments] --batch_size [batch size] --lr [learning rate] 
+python train.py --n_epochs [numberof epochs] --exp [experiment id in case of runing multiple experiments] --batch_size [batch size] --lr [learning rate] 
 
 ```
 
