@@ -4,6 +4,8 @@
 
 This repository hosts the implementation of a convolutional neural network for the classification of Infrared (IR) data as described in our paper. It includes a Python script for training, along with the necessary data loader, data augmentation code, and the Unet model architecture.
 
+<img src="fig/Picture1.jpg" width="800px"/>
+
 ## System Requirements
 - The source code has been tested on Ubuntu 18.04.4 and macOS Big Sur
 - You will need either a CPU or a NVIDIA GPU with at least 10GB of memory. For training, we strongly recommend the use of a GPU.
