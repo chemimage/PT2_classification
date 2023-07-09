@@ -31,14 +31,11 @@ pip install numpy scipy torch torchvision pillow
 
 Please note that the 'sys' library is part of Python's standard library, so it does not need to be installed separately.
 
-## Usage
+## Training
+```bash
+python training.py --n_epochs [numberof epochs] --exp [experiment id in case of runing multiple experiments] --batch_size [batch size] --lr [learning rate] 
 
-*Detailed instructions for using the code in this repository.*
-
-## Citation
-
-*Instructions for how to cite your paper.*
+```
 
 ---
 
-Please replace the placeholder sections (*Detailed instructions for using the code in this repository* and *Instructions for how to cite your paper*) with the relevant information. The Usage section should include step-by-step instructions for how to run your code, and the Citation section should include citation information for your paper.
