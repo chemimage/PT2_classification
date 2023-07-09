@@ -2,7 +2,7 @@
 
 # IR Data Classification Repository
 
-This repository hosts the implementation of a neural network for the classification of Infrared (IR) data as described in our paper. It includes a Python script for training, along with the necessary data loader, data augmentation code, and the Unet model architecture.
+This repository hosts the implementation of a convolutional neural network for the classification of Infrared (IR) data as described in our paper. It includes a Python script for training, along with the necessary data loader, data augmentation code, and the Unet model architecture.
 
 ## System Requirements
 - The source code has been tested on Ubuntu 18.04.4 and macOS Big Sur
